@@ -1,1 +1,1 @@
-# Ecommerce-clone
+# ScavengerHunt
