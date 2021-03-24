@@ -1,0 +1,22 @@
+.cont{
+    background-image: url("https://cdn.dribbble.com/users/242657/screenshots/5922496/search-in-the-city_4x.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:800px;
+}
+.box{
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px 10px rgb(79, 127, 136);
+    width:400px;
+    position: absolute;
+    right:0;
+    margin-top:-750px;
+    margin-right: 40px;
+    border-radius: 5px;
+}
+ 
+.badluck{
+     padding:20px;
+    box-shadow: 10px 10px 10px 10px rgb(79, 127, 136);
+    color:green;
+}

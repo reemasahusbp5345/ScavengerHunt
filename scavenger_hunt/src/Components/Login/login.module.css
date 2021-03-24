@@ -1,0 +1,31 @@
+.cont,.form {
+  display: flex;
+}
+
+.imgCont > img {
+  height: 612px;
+  width: 960px;
+}
+
+.form{
+    flex-direction: column;
+    margin: 80px 100px;
+}
+ h2{
+     color:#827717 ;
+     margin-top: 100px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ button{
+     border: 0px ;
+     background-color: #827717;
+     color: white;
+     cursor: pointer;
+     padding: 15px;
+     border-radius: 5px;
+     margin:30px 10px;
+     font-size: 18px;
+ }
+button:hover{
+    opacity: 0.7;
+}
